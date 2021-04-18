@@ -1,0 +1,8 @@
+.background {
+  background-image: url(./images/pexels-antonio-batinić-4164418.jpg);
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

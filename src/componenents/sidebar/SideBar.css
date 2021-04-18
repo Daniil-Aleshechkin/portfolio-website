@@ -1,0 +1,16 @@
+#sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  z-index: 1031;
+}
+#hamburger-btn {
+  z-index: 1030;
+  position: fixed;
+  bottom: 0;
+}
+@media only screen and (max-width: 993px) {
+  #sidebar {
+    position: fixed;
+  }
+}
